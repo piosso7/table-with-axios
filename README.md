@@ -1,3 +1,13 @@
+Instal json-server:
+
+npm install -g json-server
+
+Then run the console in the data folder and run the command below:
+
+json-server --watch db.json
+
+Now you can start react app!
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
